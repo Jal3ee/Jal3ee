@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jal3ee
 - 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning Node.JS and MySQL
-- 💞️ I’m looking to collaborate on Web Developer
+- 🌱 I’m currently learning Data Science and Analyst
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me Ahmadtajali61@gmail.com
 
 <!---
