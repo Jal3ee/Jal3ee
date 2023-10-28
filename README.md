@@ -1,8 +1,9 @@
 # 💫 About Me:
-👨‍🏛 I am currently a student of Lambung Mangkurat University.<br>💻 Major is Computer Science.<br>🌱 I'm currently learning Web development and Data science.<br>🤔 My hobbies are codingand playing game.<br>💬 If you have any questions, just feel free to ask me😊
+My name is *Domitilla Meylana.*
+I'm currently Student of Bangkit Academy on Dicoding.\ also Active student at Universitas Atma in Major Manajemen https://fbe.uajy.ac.id/ I am a person who is good at mathematical calculations, statistical data management, and mathematical logic so that I can analyze performance well. Various organizational experiences have made me a person who can manage time well, solving the problem and be communicative in a team work. Using the analytical skills and data visualization of marketing reports, I have an interest in the world of Data Analyst and Business Analyst. How to reach me just visit my Linkedin.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmad.tajalie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tajali10_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadtajali) 
 
 # 💻 Tech Stack:
@@ -12,13 +13,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jal3ee&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jal3ee&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
