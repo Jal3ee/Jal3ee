@@ -6,11 +6,7 @@ I'm currently Student of Bangkit Academy on Dicoding. I'm also Active student at
 <a href="https://github.com/Jal3ee">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jal3ee&theme=midnight-purple&hide_border=false"/>
-</a>
-</p>
-<p align="center" width="100%">
-<a href="https://github.com/Jal3ee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
 </p>
 
