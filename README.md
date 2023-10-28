@@ -2,14 +2,17 @@
 My name is **Ahmad Tajali.**
 I'm currently Student of Bangkit Academy on Dicoding. I'm also Active student at **<a href="https://ulm.ac.id/id/" target="_blank">Universitas Lambung Mangkurat</a>** in Computer Science. I am a person who is good at **Machine Learning, Artificial Intelligence, Statistical Data Management,** and **Analytics** so that I can analyze performance well. Various organizational experiences have made me a person who can manage time well, solving the problem and be communicative in a team work. Using that various skill i have an interest in the world of **Data Scientist, Data Analyst** and **AI Engineer**. How to reach me just visit my **<a href="https://www.linkedin.com/in/ahmadtajali/" target="_blank">Linkedin</a>**.<br/>
 <br>  
-
-![](https://github-readme-stats.vercel.app/api?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Jal3ee&theme=midnight-purple&hide_border=false) <br/>
-
-<p align="center" width="100%">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+<p align="left">
+<a href="https://github.com/Jal3ee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jal3ee&theme=midnight-purple&hide_border=false"/>
+</a>
 </p>
-
+<p align="center" width="100%">
+<a href="https://github.com/Jal3ee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</a>
+</p>
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmad.tajalie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tajali10_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadtajali)
