@@ -4,12 +4,15 @@ I'm currently Student of Bangkit Academy on Dicoding. I'm also Active student at
 <br>  
 <p align="left">
 <a href="https://github.com/Jal3ee">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jal3ee&theme=midnight-purple&hide_border=false"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jal3ee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
 </p>
-
+<p align="center">
+<a href="https://github.com/Jal3ee">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jal3ee&theme=midnight-purple&hide_border=false"/>
+</a>
+</p>
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmad.tajalie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tajali10_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadtajali)
 
