@@ -1,5 +1,7 @@
 ### 💫 About Me:
-Hola! Gua Tajali orang-orangan data & AI tapi juga suka ngulik-ngulik backend. Di repo ini, gua sering iseng eksperimenin hal-hal seru seputar data science, machine learning, sampai backend development. Buat gua, tiap baris kode itu bukan cuma kerjaan, tapi cara buat nyelesaiin masalah dengan cara yang (semoga) elegan. Kadang ngerjain sambil dengerin lo-fi atau nonton anime favorit biar tetap waras 😄.. How to reach me just visit my **<a href="https://www.linkedin.com/in/ahmadtajali/" target="_blank">Linkedin</a>**.<br/>
+Hola! Gua Tajali orang-orangan data & AI tapi juga suka ngulik-ngulik backend. Di repo ini, gua sering iseng eksperimenin hal-hal seru seputar data science, machine learning, sampai backend development. Buat gua, tiap baris kode itu bukan cuma kerjaan, tapi cara buat nyelesaiin masalah dengan cara yang (semoga) elegan. Kadang ngerjain sambil dengerin lo-fi atau nonton anime favorit biar tetap waras 😄..
+<br> 
+How to reach me just visit my **<a href="https://www.linkedin.com/in/ahmadtajali/" target="_blank">Linkedin</a>**.<br/>
 <br>  
 <p align="center">
 <a href="https://github.com/Jal3ee">
