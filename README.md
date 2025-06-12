@@ -1,6 +1,5 @@
 ### 💫 About Me:
-My name is **Ahmad Tajali.**
-I'm currently Student of Bangkit Academy on Dicoding. I'm also Active student at **<a href="https://ulm.ac.id/id/" target="_blank">Universitas Lambung Mangkurat</a>** in Computer Science. I am a person who is good at **Machine Learning, Artificial Intelligence, Statistical Data Management,** and **Analytics** so that I can analyze performance well. Various organizational experiences have made me a person who can manage time well, solving the problem and be communicative in a team work. Using that various skill i have an interest in the world of **Data Scientist, Data Analyst** and **AI Engineer**. How to reach me just visit my **<a href="https://www.linkedin.com/in/ahmadtajali/" target="_blank">Linkedin</a>**.<br/>
+Hola! Gua Tajali orang-orangan data & AI tapi juga suka ngulik-ngulik backend. Di repo ini, gua sering iseng eksperimenin hal-hal seru seputar data science, machine learning, sampai backend development. Buat gua, tiap baris kode itu bukan cuma kerjaan, tapi cara buat nyelesaiin masalah dengan cara yang (semoga) elegan. Kadang ngerjain sambil dengerin lo-fi atau nonton anime favorit biar tetap waras 😄.. How to reach me just visit my **<a href="https://www.linkedin.com/in/ahmadtajali/" target="_blank">Linkedin</a>**.<br/>
 <br>  
 <p align="center">
 <a href="https://github.com/Jal3ee">
